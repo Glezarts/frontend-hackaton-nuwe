@@ -23,7 +23,7 @@ function App() {
         <div className={classes.container}>
           <Portada className={classes.portada}/>
           <Switch>
-            <Route path="/" exact>
+            <Route path="/Glezarts/frontend-hackaton-nuwe" exact>
               <Inicio/>
             </Route>
             <Route path="/register"  exact>
