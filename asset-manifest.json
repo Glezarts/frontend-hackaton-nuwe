@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Glezarts/frontend-hackaton-nuwe/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Glezarts/frontend-hackaton-nuwe/static/js/main.8aba81b4.chunk.js",
+    "main.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/main.8aba81b4.chunk.js.map",
+    "runtime-main.js": "/Glezarts/frontend-hackaton-nuwe/static/js/runtime-main.34facc3e.js",
+    "runtime-main.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/runtime-main.34facc3e.js.map",
+    "static/js/2.e35c8ee8.chunk.js": "/Glezarts/frontend-hackaton-nuwe/static/js/2.e35c8ee8.chunk.js",
+    "static/js/2.e35c8ee8.chunk.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/2.e35c8ee8.chunk.js.map",
+    "static/js/3.c7f82a32.chunk.js": "/Glezarts/frontend-hackaton-nuwe/static/js/3.c7f82a32.chunk.js",
+    "static/js/3.c7f82a32.chunk.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/3.c7f82a32.chunk.js.map",
+    "index.html": "/Glezarts/frontend-hackaton-nuwe/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Glezarts/frontend-hackaton-nuwe/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e35c8ee8.chunk.js.LICENSE.txt": "/Glezarts/frontend-hackaton-nuwe/static/js/2.e35c8ee8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Glezarts/frontend-hackaton-nuwe/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34facc3e.js",
+    "static/js/2.e35c8ee8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8aba81b4.chunk.js"
+  ]
+}
