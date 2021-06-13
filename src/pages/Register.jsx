@@ -1,6 +1,6 @@
 import React from 'react'
 import BotonVolver from '../components/BotonVolver'
-import { Button, ButtonGroup, Checkbox, Container, makeStyles, Typography } from '@material-ui/core';
+import { Container, makeStyles, Typography } from '@material-ui/core';
 import FormularioRegistro from '../components/FormularioRegistro';
 
 
@@ -10,6 +10,7 @@ export default function Register() {
     const toggleCheckbox = event =>{
         setChecked(event.target.checked)
     }
+    const [openAlert, setOpenAlert] = React.useState(false)
     return (
         <div className={classes.root}>
             <div className={classes.container}>
@@ -24,12 +25,11 @@ export default function Register() {
              <Typography className={classes.title}>Registra tu cuenta individual</Typography>
              <Typography className={classes.subtitle}>Para poder revisar que se trata de una cuenta real, necesitamos la siguiente información</Typography>
              <FormularioRegistro/>
-             <ButtonGroup>
-               <Button className={classes.btn}>Registrar cuenta</Button>
-             </ButtonGroup>
+
 
                  </Container>
         </div>
+
     )
 }
 
@@ -73,18 +73,6 @@ const useStyles = makeStyles((theme) =>({
         paddingBottom: "16px",
         borderBottom: "1px solid #f5f5f5"
     },
-    terminos:{
-        display:"inline-block",
-        color: "#696F79",
-        marginBottom:"15px"
-    },
-    btn:{
-        backgroundColor: "#4F934A",
-        border:"none",
-        width:"100%",
-        padding: "10px",
-        color:"white",
-        textTransform:"none",
-        fontWeight:"normal"
-    },
+ 
+
 }))   

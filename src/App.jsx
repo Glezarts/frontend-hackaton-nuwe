@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Inicio from './pages/Inicio';
 import Register from './pages/Register';
+import Profile from './pages/Profile'
 import { createMuiTheme, makeStyles, MuiThemeProvider } from '@material-ui/core';
 
 const theme = createMuiTheme({
@@ -30,7 +31,7 @@ function App() {
               <Register/>
             </Route>
             <Route path="/profile"  exact>
-      
+              <Profile/>
             </Route>
             <Route path="/verify"  exact>
       

@@ -10,7 +10,7 @@ export default function BotonVolver() {
     const classes = useStyles();
     return (
         <div>
-                <Link className={classes.back} to="/">
+                <Link className={classes.back} to="/Glezarts/frontend-hackaton-nuwe">
                     <IoIosArrowBack style={{width:"20px"}}/>
                     <Typography> Volver</Typography>
                 </Link>
