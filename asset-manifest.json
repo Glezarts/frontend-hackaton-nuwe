@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontend-hackaton-nuwe/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/frontend-hackaton-nuwe/static/js/main.98cb293a.chunk.js",
-    "main.js.map": "/frontend-hackaton-nuwe/static/js/main.98cb293a.chunk.js.map",
+    "main.js": "/frontend-hackaton-nuwe/static/js/main.6417a0b0.chunk.js",
+    "main.js.map": "/frontend-hackaton-nuwe/static/js/main.6417a0b0.chunk.js.map",
     "runtime-main.js": "/frontend-hackaton-nuwe/static/js/runtime-main.380fe36e.js",
     "runtime-main.js.map": "/frontend-hackaton-nuwe/static/js/runtime-main.380fe36e.js.map",
     "static/js/2.8b35f72b.chunk.js": "/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.380fe36e.js",
     "static/js/2.8b35f72b.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.98cb293a.chunk.js"
+    "static/js/main.6417a0b0.chunk.js"
   ]
 }
