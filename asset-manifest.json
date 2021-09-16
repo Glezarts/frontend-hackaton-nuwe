@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Glezarts/frontend-hackaton-nuwe/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Glezarts/frontend-hackaton-nuwe/static/js/main.b7281add.chunk.js",
-    "main.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/main.b7281add.chunk.js.map",
-    "runtime-main.js": "/Glezarts/frontend-hackaton-nuwe/static/js/runtime-main.aa1cf5fb.js",
-    "runtime-main.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/runtime-main.aa1cf5fb.js.map",
-    "static/js/2.8b35f72b.chunk.js": "/Glezarts/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js",
-    "static/js/2.8b35f72b.chunk.js.map": "/Glezarts/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js.map",
-    "index.html": "/Glezarts/frontend-hackaton-nuwe/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/Glezarts/frontend-hackaton-nuwe/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8b35f72b.chunk.js.LICENSE.txt": "/Glezarts/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js.LICENSE.txt",
-    "static/media/Background.d0f96ff7.png": "/Glezarts/frontend-hackaton-nuwe/static/media/Background.d0f96ff7.png"
+    "main.css": "/frontend-hackaton-nuwe/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/frontend-hackaton-nuwe/static/js/main.b7281add.chunk.js",
+    "main.js.map": "/frontend-hackaton-nuwe/static/js/main.b7281add.chunk.js.map",
+    "runtime-main.js": "/frontend-hackaton-nuwe/static/js/runtime-main.380fe36e.js",
+    "runtime-main.js.map": "/frontend-hackaton-nuwe/static/js/runtime-main.380fe36e.js.map",
+    "static/js/2.8b35f72b.chunk.js": "/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js",
+    "static/js/2.8b35f72b.chunk.js.map": "/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js.map",
+    "index.html": "/frontend-hackaton-nuwe/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/frontend-hackaton-nuwe/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8b35f72b.chunk.js.LICENSE.txt": "/frontend-hackaton-nuwe/static/js/2.8b35f72b.chunk.js.LICENSE.txt",
+    "static/media/Background.d0f96ff7.png": "/frontend-hackaton-nuwe/static/media/Background.d0f96ff7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa1cf5fb.js",
+    "static/js/runtime-main.380fe36e.js",
     "static/js/2.8b35f72b.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.b7281add.chunk.js"
