@@ -12,7 +12,14 @@ En el App.js se encuentra la "portada" y las diferentes páginas que llevan a la
 
 He utilizado Material UI en casi todo el código por la facilidad de implementar sus componentes. Con ello en el App.js, creo una paleta de colores para esos elementos que viene predefinidos por Mui.
 
-Ha sido una buena experiencia para empezar y saber en que invertir más horas en mejorar mis conocimientos de React, ya que solo llevo un año aprendiendo programación. 
+Ha sido una buena experiencia para empezar y saber en que invertir más horas en mejorar mis conocimientos de React, ya que solo llevo un año aprendiendo programación, y unas semanas con React. 
 
 Muchísimas gracias por esta oportunidad!
+
+Seguiré aprendiendo, y aunque la prueba no este acabada aquí la teneis, para visualizarla:
+
+https://glezarts.github.io/frontend-hackaton-nuwe/
+
+
+
 
